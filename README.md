@@ -31,5 +31,7 @@ are for PDF download and other formats (depending on the submission format). I f
 ## <a name="section-a"></a>2. Action
 
 Step 1. Use Python API wrapper to pull data from arXiv
+
 Step 2. Transfer data into MongoDB (hosted on an Amazon Web Services instance)
+
 Step 3. Apply NMF and LDA to the paper abstracts and for topic modeling
